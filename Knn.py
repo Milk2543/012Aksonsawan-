@@ -5,8 +5,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
-st.header('kairung')
-#st.image("./pic/kairung.jpg")
+st.header('aksonsawan')
+#st.image("./pic/aksonsawan.jpg")
 col1, col2, col3 = st.columns(3)
 with col1:
 st.header("Versicolor")
